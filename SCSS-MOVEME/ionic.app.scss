@@ -1,0 +1,11 @@
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+@import "../www/lib/ionic/scss";
+.tab-item.tab-item-active {
+	color: $positive;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 20px;
+}
+
